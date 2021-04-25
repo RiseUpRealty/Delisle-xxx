@@ -1,1 +1,3 @@
-### 1b_d.PNG
+-t, --title [name]
+pdf 1b-d.PNG
+# npx repo-to-pdf ../repo -t MeinKampf.pdf
