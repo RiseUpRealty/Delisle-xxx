@@ -1,2 +1,2 @@
 # Delisle
-Test repo for Delisle
+To view floorplans, click here
